@@ -1,0 +1,23 @@
+#title{
+    color: rgba(15, 15, 223, 0.952);
+      font: Arial;
+      font-size: 55px;
+      background-color: rgba(27, 234, 38, 0.669);
+      text-align:center;
+    }
+    body{
+      align-items: center;
+      background-color: rgb(12, 238, 106);
+      text-align:center;
+    }
+    #description{
+      background-color: rgba(114, 224, 59, 0.566);
+      font-size: 20px;
+      text-align:center;
+    }
+
+   #survey-form {
+    align-content: center;
+    padding: 2%;
+    text-align: center;
+   } 
